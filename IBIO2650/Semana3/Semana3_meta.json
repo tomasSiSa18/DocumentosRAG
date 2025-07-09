@@ -1,0 +1,1564 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER I.2.2 POLYMERS: BASIC \nPRINCIPLES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.537455439567566,
+          434.425537109375
+        ],
+        [
+          256.4297790527344,
+          434.425537109375
+        ],
+        [
+          256.4297790527344,
+          458.425537109375
+        ],
+        [
+          49.537455439567566,
+          458.425537109375
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.0,
+          531.9255065917969
+        ],
+        [
+          141.70101749897003,
+          531.9255065917969
+        ],
+        [
+          141.70101749897003,
+          543.9255065917969
+        ],
+        [
+          48.0,
+          544.3887575268745
+        ]
+      ]
+    },
+    {
+      "title": "THE POLYMER MOLECULE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.0,
+          519.9295043945312
+        ],
+        [
+          470.3639831542969,
+          519.6193099021912
+        ],
+        [
+          470.3639831542969,
+          531.9295043945312
+        ],
+        [
+          314.5525689125061,
+          532.487842798233
+        ]
+      ]
+    },
+    {
+      "title": "Molecular Structure of Single Polymer \nMolecules",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.0,
+          544.1958465576172
+        ],
+        [
+          532.1759643554688,
+          543.5226942300797
+        ],
+        [
+          532.1759643554688,
+          568.1958465576172
+        ],
+        [
+          313.9738082885742,
+          568.5289009809494
+        ]
+      ]
+    },
+    {
+      "title": "Chemical Structure of Single Polymer \nMolecules",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.0,
+          160.251708984375
+        ],
+        [
+          532.8479614257812,
+          159.94181562960148
+        ],
+        [
+          532.8479614257812,
+          184.36926229298115
+        ],
+        [
+          320.1841950416565,
+          185.89855916798115
+        ]
+      ]
+    },
+    {
+      "title": "Copolymers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.45582914352417,
+          63.66874920576811
+        ],
+        [
+          381.6719970703125,
+          63.66874920576811
+        ],
+        [
+          381.6719970703125,
+          76.1717529296875
+        ],
+        [
+          314.45582914352417,
+          76.1717529296875
+        ]
+      ]
+    },
+    {
+      "title": "Determination of Chemical Composition",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.0,
+          508.22796630859375
+        ],
+        [
+          280.031982421875,
+          507.34797191619873
+        ],
+        [
+          280.031982421875,
+          520.2279663085938
+        ],
+        [
+          53.02010536193848,
+          520.6754618883133
+        ]
+      ]
+    },
+    {
+      "title": "Tacticity",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          321.0,
+          328.2518310546875
+        ],
+        [
+          367.4898326396942,
+          327.76090094447136
+        ],
+        [
+          366.3479919433594,
+          340.2518310546875
+        ],
+        [
+          320.7289216518402,
+          341.0602953135967
+        ]
+      ]
+    },
+    {
+      "title": "MOLECULAR WEIGHT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          320.8564124107361,
+          639.9855041503906
+        ],
+        [
+          448.7039794921875,
+          639.4739854931831
+        ],
+        [
+          448.7039794921875,
+          651.9855041503906
+        ],
+        [
+          320.8564124107361,
+          652.551228582859
+        ]
+      ]
+    },
+    {
+      "title": "The Molecular Weight Distribution \nand its Averages",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          320.87158727645874,
+          664.2518463134766
+        ],
+        [
+          519.47998046875,
+          663.5542974472046
+        ],
+        [
+          519.47998046875,
+          688.2518463134766
+        ],
+        [
+          319.67627477645874,
+          688.5297017097473
+        ]
+      ]
+    },
+    {
+      "title": "Characterizing the Molecular Weight \nDistribution",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.409727692604065,
+          688.2516479492188
+        ],
+        [
+          258.4919738769531,
+          688.2516479492188
+        ],
+        [
+          258.4919738769531,
+          712.2516479492188
+        ],
+        [
+          47.409727692604065,
+          712.2516479492188
+        ]
+      ]
+    },
+    {
+      "title": "CONNECTING PHYSICAL BEHAVIOR \nWITH CHEMICAL CHARACTERISTICS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.56134831905365,
+          219.98529052734375
+        ],
+        [
+          269.07598876953125,
+          219.98529052734375
+        ],
+        [
+          269.07598876953125,
+          244.28468745946884
+        ],
+        [
+          53.56134831905365,
+          244.28468745946884
+        ]
+      ]
+    },
+    {
+      "title": "Ramen Noodles: Glassy Versus Rubbery Polymer \nChains",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          323.7084846496582,
+          467.3014221191406
+        ],
+        [
+          552.3800048828125,
+          467.3014221191406
+        ],
+        [
+          552.3800048828125,
+          489.7866799235344
+        ],
+        [
+          323.7084846496582,
+          489.7866799235344
+        ]
+      ]
+    },
+    {
+      "title": "The Physical Behavior of Linear \nand Amorphous Polymers",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.397215723991394,
+          184.251953125
+        ],
+        [
+          226.7279815673828,
+          184.251953125
+        ],
+        [
+          226.7279815673828,
+          208.251953125
+        ],
+        [
+          47.397215723991394,
+          208.251953125
+        ]
+      ]
+    },
+    {
+      "title": "The Physical Behavior of Other Physical \nStates",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          315.0,
+          63.79414100199938
+        ],
+        [
+          539.7360229492188,
+          63.79414100199938
+        ],
+        [
+          539.7360229492188,
+          89.15070272237062
+        ],
+        [
+          315.0,
+          89.15070272237062
+        ]
+      ]
+    },
+    {
+      "title": "A Tragedy Caused by a Change in Temperature \nand its Effect on Tg and Polymer Properties",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          317.93663692474365,
+          277.7096252441406
+        ],
+        [
+          539.75,
+          277.7096252441406
+        ],
+        [
+          539.75,
+          299.8204071521759
+        ],
+        [
+          316.74132442474365,
+          299.8204071521759
+        ]
+      ]
+    },
+    {
+      "title": "Characterizing a Polymer's Physical State \nand Behavior",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          315.0,
+          448.25164794921875
+        ],
+        [
+          547.5239868164062,
+          448.25164794921875
+        ],
+        [
+          547.5239868164062,
+          472.95246666669846
+        ],
+        [
+          314.1659746170044,
+          472.95246666669846
+        ]
+      ]
+    },
+    {
+      "title": "Measuring the Transition Temperatures \nBetween States",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          54.0,
+          64.22161865234375
+        ],
+        [
+          278.0639953613281,
+          63.251276314258575
+        ],
+        [
+          278.0639953613281,
+          88.22161865234375
+        ],
+        [
+          54.0,
+          88.22161865234375
+        ]
+      ]
+    },
+    {
+      "title": "Interactions with Water",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.32746934890747,
+          424.2216491699219
+        ],
+        [
+          187.583984375,
+          423.2902681231499
+        ],
+        [
+          187.583984375,
+          436.2216491699219
+        ],
+        [
+          53.32746934890747,
+          436.2633427977562
+        ]
+      ]
+    },
+    {
+      "title": "Measuring the Hydrophilicity of Polymer \nMaterials",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          321.0,
+          220.2515869140625
+        ],
+        [
+          553.4999389648438,
+          219.04760205745697
+        ],
+        [
+          553.4999389648438,
+          244.2515869140625
+        ],
+        [
+          320.73078203201294,
+          244.80823642015457
+        ]
+      ]
+    },
+    {
+      "title": "Degradation Characteristics",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          321.0,
+          700.2516479492188
+        ],
+        [
+          476.35198974609375,
+          699.2723962068558
+        ],
+        [
+          476.35198974609375,
+          712.2516479492188
+        ],
+        [
+          321.0,
+          713.2531789541245
+        ]
+      ]
+    },
+    {
+      "title": "POLYMER SYNTHESIS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          314.75319814682007,
+          195.98529052734375
+        ],
+        [
+          444.6839904785156,
+          195.98529052734375
+        ],
+        [
+          444.6839904785156,
+          207.98529052734375
+        ],
+        [
+          314.75319814682007,
+          207.98529052734375
+        ]
+      ]
+    },
+    {
+      "title": "Polymerization Mechanisms",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          315.0,
+          280.25164794921875
+        ],
+        [
+          472.35601806640625,
+          280.25164794921875
+        ],
+        [
+          472.35601806640625,
+          292.25164794921875
+        ],
+        [
+          315.0,
+          292.25164794921875
+        ]
+      ]
+    },
+    {
+      "title": "Using Synthesis Conditions to Build \nthe Desired Polymer",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          48.0,
+          484.22576904296875
+        ],
+        [
+          251.34002685546875,
+          483.6879739165306
+        ],
+        [
+          251.34002685546875,
+          508.22576904296875
+        ],
+        [
+          46.9655984044075,
+          508.22576904296875
+        ]
+      ]
+    },
+    {
+      "title": "So What is a Network Polymer?",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          316.0985813140869,
+          498.8086242675781
+        ],
+        [
+          466.3800048828125,
+          498.5787835121155
+        ],
+        [
+          466.3800048828125,
+          508.8086242675781
+        ],
+        [
+          316.0985813140869,
+          509.27546095848083
+        ]
+      ]
+    },
+    {
+      "title": "CASE STUDIES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          53.55356937646866,
+          64.00128173828125
+        ],
+        [
+          140.3520050048828,
+          64.00128173828125
+        ],
+        [
+          140.3520050048828,
+          76.00128173828125
+        ],
+        [
+          53.55356937646866,
+          76.00128173828125
+        ]
+      ]
+    },
+    {
+      "title": "THE PRESENT AND THE FUTURE",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          321.0,
+          63.85456755012274
+        ],
+        [
+          508.3799743652344,
+          63.85456755012274
+        ],
+        [
+          508.3799743652344,
+          76.00128173828125
+        ],
+        [
+          321.0,
+          76.00128173828125
+        ]
+      ]
+    },
+    {
+      "title": "Case Study Resorbable Sutures",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          57.84877681732178,
+          199.04238930344582
+        ],
+        [
+          220.82958984375,
+          199.04238930344582
+        ],
+        [
+          220.82958984375,
+          208.90069580078125
+        ],
+        [
+          57.84877681732178,
+          208.90069580078125
+        ]
+      ]
+    },
+    {
+      "title": "What problems can occur?",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.38494926691055,
+          219.4038141667843
+        ],
+        [
+          174.46758341789246,
+          219.4038141667843
+        ],
+        [
+          174.46758341789246,
+          229.2779541015625
+        ],
+        [
+          59.38494926691055,
+          229.2779541015625
+        ]
+      ]
+    },
+    {
+      "title": "What properties are required of the biomaterial?",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          60.78700107336044,
+          257.2769775390625
+        ],
+        [
+          268.7512128353119,
+          257.2769775390625
+        ],
+        [
+          267.5559003353119,
+          266.6636519730091
+        ],
+        [
+          59.59168857336044,
+          266.6636519730091
+        ]
+      ]
+    },
+    {
+      "title": "What polymeric biomaterial is used?",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          60.462465047836304,
+          305.2739562988281
+        ],
+        [
+          216.58500373363495,
+          305.2739562988281
+        ],
+        [
+          215.38969123363495,
+          314.73935902118683
+        ],
+        [
+          59.267152547836304,
+          314.73935902118683
+        ]
+      ]
+    },
+    {
+      "title": "TABLE I.2.2.4 Common Polymeric Biomaterials with Their Applications and the Properties That Make \nThem Useful in the Medical Field",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          57.43285417556763,
+          410.5789679288864
+        ],
+        [
+          544.8838500976562,
+          410.5789679288864
+        ],
+        [
+          544.8838500976562,
+          433.0347286462784
+        ],
+        [
+          57.43285417556763,
+          433.0347286462784
+        ]
+      ]
+    },
+    {
+      "title": "Case Study Soft Contact Lenses",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.00299835205078,
+          66.96173095703125
+        ],
+        [
+          216.56658935546875,
+          66.14124977588654
+        ],
+        [
+          216.56658935546875,
+          76.1614990234375
+        ],
+        [
+          54.00299835205078,
+          77.4022661447525
+        ]
+      ]
+    },
+    {
+      "title": "What problem was addressed?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.9864998459816,
+          87.53875732421875
+        ],
+        [
+          185.19400024414062,
+          86.70272163301706
+        ],
+        [
+          185.19400024414062,
+          96.53875732421875
+        ],
+        [
+          53.7911873459816,
+          97.26144126802683
+        ]
+      ]
+    },
+    {
+      "title": "What properties were required of the biomaterial?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          55.0,
+          168.52978515625
+        ],
+        [
+          269.4159851074219,
+          167.86083202064037
+        ],
+        [
+          269.4159851074219,
+          177.52978515625
+        ],
+        [
+          53.87984722852707,
+          178.510372325778
+        ]
+      ]
+    },
+    {
+      "title": "What polymeric biomaterial is used?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.28727048635483,
+          227.52471923828125
+        ],
+        [
+          209.03500366210938,
+          226.8769878745079
+        ],
+        [
+          209.03500366210938,
+          236.52471923828125
+        ],
+        [
+          54.28727048635483,
+          237.48107117414474
+        ]
+      ]
+    },
+    {
+      "title": "Case Study Artificial Hip Joints",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.00299835205078,
+          384.175868332386
+        ],
+        [
+          214.0915985107422,
+          382.646571457386
+        ],
+        [
+          214.0915985107422,
+          393.5211486816406
+        ],
+        [
+          53.10192561149597,
+          394.81868809461594
+        ]
+      ]
+    },
+    {
+      "title": "What problem was addressed?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.51700007915497,
+          404.89825439453125
+        ],
+        [
+          185.19400024414062,
+          403.690644800663
+        ],
+        [
+          185.19400024414062,
+          413.89825439453125
+        ],
+        [
+          53.32168757915497,
+          414.19158643484116
+        ]
+      ]
+    },
+    {
+      "title": "What properties were required of the biomaterial?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.88840126991272,
+          452.895263671875
+        ],
+        [
+          269.5591285228729,
+          452.28847736120224
+        ],
+        [
+          269.4159851074219,
+          461.895263671875
+        ],
+        [
+          53.69308876991272,
+          462.85979801416397
+        ]
+      ]
+    },
+    {
+      "title": "What polymeric biomaterial was used?",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.39229989051819,
+          500.8922424316406
+        ],
+        [
+          219.53797912597656,
+          500.3925366997719
+        ],
+        [
+          219.53797912597656,
+          509.8922424316406
+        ],
+        [
+          53.19698739051819,
+          510.73974591493607
+        ]
+      ]
+    },
+    {
+      "title": "BIBLIOGRAPHY",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          48.0,
+          611.9017944335938
+        ],
+        [
+          139.3679962158203,
+          611.8962843418121
+        ],
+        [
+          139.3679962158203,
+          623.9017944335938
+        ],
+        [
+          48.0,
+          624.3673717975616
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "TableCell",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          162
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Semana3"
+}

@@ -1,0 +1,1382 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER I.2.3 METALS: BASIC \nPRINCIPLES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.74004501104355,
+          274.3863220214844
+        ],
+        [
+          245.10179138183594,
+          274.3863220214844
+        ],
+        [
+          245.10179138183594,
+          298.3863220214844
+        ],
+        [
+          54.54473251104355,
+          298.3863220214844
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          363.9862976074219
+        ],
+        [
+          149.07448840141296,
+          363.9707660973072
+        ],
+        [
+          147.87917590141296,
+          375.9862976074219
+        ],
+        [
+          53.70775294303894,
+          376.7649529874325
+        ]
+      ]
+    },
+    {
+      "title": "STEPS IN THE FABRICATION \nOF METALLIC BIOMATERIALS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          555.9862976074219
+        ],
+        [
+          231.48157846927643,
+          555.9862976074219
+        ],
+        [
+          230.28626596927643,
+          579.9862976074219
+        ],
+        [
+          53.54879987239838,
+          581.2648898363113
+        ]
+      ]
+    },
+    {
+      "title": "Metal-Containing Ore to \nRaw Metal Product",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.0,
+          688.2526473999023
+        ],
+        [
+          195.14398193359375,
+          687.8085034489632
+        ],
+        [
+          195.14398193359375,
+          712.2526473999023
+        ],
+        [
+          53.08390089869499,
+          712.8796754479408
+        ]
+      ]
+    },
+    {
+      "title": "Raw Metal Product to Stock Metal Shapes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          315.0,
+          64.23162841796875
+        ],
+        [
+          552.2612957954407,
+          64.23162841796875
+        ],
+        [
+          552.2612957954407,
+          76.23162841796875
+        ],
+        [
+          315.0,
+          76.23162841796875
+        ]
+      ]
+    },
+    {
+      "title": "Stock Metal Shapes to Preliminary \nand Final Metal Devices",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          320.1745283603668,
+          123.20001250505447
+        ],
+        [
+          516.8519897460938,
+          123.20001250505447
+        ],
+        [
+          516.8519897460938,
+          148.2515869140625
+        ],
+        [
+          320.1745283603668,
+          148.2515869140625
+        ]
+      ]
+    },
+    {
+      "title": "MICROSTRUCTURES AND PROPERTIES \nOF IMPLANT METALS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          314.7303628921509,
+          411.8973388671875
+        ],
+        [
+          544.739990234375,
+          411.8973388671875
+        ],
+        [
+          544.739990234375,
+          436.1407862305641
+        ],
+        [
+          313.5350503921509,
+          436.1407862305641
+        ]
+      ]
+    },
+    {
+      "title": "Microstructure and Mechanical Properties",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          314.9637858867645,
+          675.8223685026169
+        ],
+        [
+          549.0360107421875,
+          675.8223685026169
+        ],
+        [
+          549.0360107421875,
+          688.1636428833008
+        ],
+        [
+          314.9637858867645,
+          688.1636428833008
+        ]
+      ]
+    },
+    {
+      "title": "TY  TI \fKD\u00e5M",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          149.00393986701965,
+          385.93853759765625
+        ],
+        [
+          200.8084259033203,
+          385.93853759765625
+        ],
+        [
+          200.8084259033203,
+          398.0677905678749
+        ],
+        [
+          149.00393986701965,
+          398.0677905678749
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUDING REMARKS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.61549121141434,
+          627.9853057861328
+        ],
+        [
+          194.37600708007812,
+          627.9853057861328
+        ],
+        [
+          194.37600708007812,
+          639.9853057861328
+        ],
+        [
+          47.61549121141434,
+          639.9853057861328
+        ]
+      ]
+    },
+    {
+      "title": "BIBLIOGRAPHY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.0,
+          327.9853210449219
+        ],
+        [
+          146.3279653787613,
+          327.9853210449219
+        ],
+        [
+          145.3679962158203,
+          339.9853210449219
+        ],
+        [
+          53.17196345329285,
+          339.9853210449219
+        ]
+      ]
+    },
+    {
+      "title": "A. TITANIUM AND NITINOL (NiTi)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.92885571718216,
+          65.26519775390625
+        ],
+        [
+          252.45750427246094,
+          65.26519775390625
+        ],
+        [
+          252.45750427246094,
+          77.26519775390625
+        ],
+        [
+          49.92885571718216,
+          77.26519775390625
+        ]
+      ]
+    },
+    {
+      "title": "FABRICATION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.4277980029583,
+          579.9653015136719
+        ],
+        [
+          130.71600341796875,
+          579.9653015136719
+        ],
+        [
+          130.71600341796875,
+          591.9653015136719
+        ],
+        [
+          47.4277980029583,
+          592.1574897766113
+        ]
+      ]
+    },
+    {
+      "title": "CORROSION RESISTANCE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          315.0,
+          255.98529052734375
+        ],
+        [
+          466.0559997558594,
+          255.98529052734375
+        ],
+        [
+          466.0559997558594,
+          267.98529052734375
+        ],
+        [
+          314.6533212661743,
+          268.4329515695572
+        ]
+      ]
+    },
+    {
+      "title": "BIOCOMPATIBILITY AND SURFACE \nMODIFICATION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          314.7741365432739,
+          495.9853210449219
+        ],
+        [
+          525.4320068359375,
+          495.9853210449219
+        ],
+        [
+          525.4320068359375,
+          519.9853210449219
+        ],
+        [
+          314.7741365432739,
+          521.0709004998207
+        ]
+      ]
+    },
+    {
+      "title": "MECHANICAL PROPERTIES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.76691120862961,
+          171.98529052734375
+        ],
+        [
+          213.04798889160156,
+          171.98529052734375
+        ],
+        [
+          213.04798889160156,
+          183.98529052734375
+        ],
+        [
+          53.76691120862961,
+          184.24353213608265
+        ]
+      ]
+    },
+    {
+      "title": "NiTi ALLOY",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          321.0,
+          159.98529052734375
+        ],
+        [
+          390.7305772304535,
+          159.56749539077282
+        ],
+        [
+          389.5352647304535,
+          171.98529052734375
+        ],
+        [
+          320.1541006565094,
+          172.48951260745525
+        ]
+      ]
+    },
+    {
+      "title": "SURFACE MODIFICATIONS OF NiTi",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          313.98300075531006,
+          483.91644287109375
+        ],
+        [
+          520.9315452575684,
+          483.91644287109375
+        ],
+        [
+          520.9315452575684,
+          495.91644287109375
+        ],
+        [
+          313.98300075531006,
+          496.5393787622452
+        ]
+      ]
+    },
+    {
+      "title": "APPLICATIONS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.97026717662811,
+          171.98529052734375
+        ],
+        [
+          143.28742933273315,
+          171.98529052734375
+        ],
+        [
+          143.28742933273315,
+          184.15167304873466
+        ],
+        [
+          53.97026717662811,
+          184.15167304873466
+        ]
+      ]
+    },
+    {
+      "title": "BIBLIOGRAPHY",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.56609046459198,
+          488.9853210449219
+        ],
+        [
+          147.10053384304047,
+          488.9853210449219
+        ],
+        [
+          147.10053384304047,
+          500.9853210449219
+        ],
+        [
+          53.56609046459198,
+          500.9853210449219
+        ]
+      ]
+    },
+    {
+      "title": "B. STAINLESS STEELS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          49.69218161702156,
+          315.97381591796875
+        ],
+        [
+          182.85944831371307,
+          315.90023946762085
+        ],
+        [
+          182.85944831371307,
+          327.97381591796875
+        ],
+        [
+          49.69218161702156,
+          328.45939403772354
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.0,
+          375.97381591796875
+        ],
+        [
+          142.61911511421204,
+          375.8130394220352
+        ],
+        [
+          141.42380261421204,
+          387.97381591796875
+        ],
+        [
+          47.21894297003746,
+          388.51201862096786
+        ]
+      ]
+    },
+    {
+      "title": "METALLURGICAL AND CHEMICAL \nCONSIDERATIONS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.0,
+          543.9738006591797
+        ],
+        [
+          253.75198364257812,
+          543.9738006591797
+        ],
+        [
+          253.75198364257812,
+          567.9738006591797
+        ],
+        [
+          46.9605917930603,
+          568.8814027905464
+        ]
+      ]
+    },
+    {
+      "title": "MECHANICAL PROPERTIES",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          54.0,
+          531.9664154052734
+        ],
+        [
+          213.04798889160156,
+          531.9664154052734
+        ],
+        [
+          213.04798889160156,
+          543.9664154052734
+        ],
+        [
+          52.935603976249695,
+          543.9664154052734
+        ]
+      ]
+    },
+    {
+      "title": "CORROSION BEHAVIOR",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          54.0,
+          99.98529052734375
+        ],
+        [
+          193.71600341796875,
+          99.65271194279194
+        ],
+        [
+          193.71600341796875,
+          111.98529052734375
+        ],
+        [
+          54.0,
+          112.72657142579556
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          321.0,
+          63.65330712497234
+        ],
+        [
+          387.0,
+          63.65330712497234
+        ],
+        [
+          387.0,
+          76.00128173828125
+        ],
+        [
+          321.0,
+          76.00128173828125
+        ]
+      ]
+    },
+    {
+      "title": "BIBLIOGRAPHY",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          321.0,
+          332.0013122558594
+        ],
+        [
+          412.36798095703125,
+          331.9253040254116
+        ],
+        [
+          412.36798095703125,
+          344.0013122558594
+        ],
+        [
+          319.94770789146423,
+          345.1588930785656
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          330
+        ],
+        [
+          "TableCell",
+          118
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          311
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          328
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          318
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          322
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "TableCell",
+          67
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "TableCell",
+          79
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Semana7"
+}

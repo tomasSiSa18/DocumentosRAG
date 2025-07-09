@@ -1,0 +1,1560 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER I.2.5 HYDROGELS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.25741344690323,
+          185.23077392578125
+        ],
+        [
+          216.73480224609375,
+          185.23077392578125
+        ],
+        [
+          216.73480224609375,
+          197.23077392578125
+        ],
+        [
+          50.25741344690323,
+          197.23077392578125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.000999450683594,
+          267.93084716796875
+        ],
+        [
+          141.55202293395996,
+          267.93084716796875
+        ],
+        [
+          141.55202293395996,
+          279.93084716796875
+        ],
+        [
+          48.000999450683594,
+          279.93084716796875
+        ]
+      ]
+    },
+    {
+      "title": "CLASSIFICATION AND BASIC \nSTRUCTURES OF HYDROGELS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.96330934762955,
+          627.9308013916016
+        ],
+        [
+          223.76498413085938,
+          627.9308013916016
+        ],
+        [
+          223.76498413085938,
+          651.9308013916016
+        ],
+        [
+          47.96330934762955,
+          651.9308013916016
+        ]
+      ]
+    },
+    {
+      "title": "SYNTHESIS OF HYDROGELS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.0,
+          195.98529052734375
+        ],
+        [
+          485.6999816894531,
+          195.90128222107887
+        ],
+        [
+          485.6999816894531,
+          207.98529052734375
+        ],
+        [
+          320.09719491004944,
+          208.78507634997368
+        ]
+      ]
+    },
+    {
+      "title": "SWELLING BEHAVIOR OF HYDROGELS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.6273488998413,
+          448.01043701171875
+        ],
+        [
+          542.7359619140625,
+          448.01043701171875
+        ],
+        [
+          542.7359619140625,
+          460.01043701171875
+        ],
+        [
+          313.4320363998413,
+          460.446236371994
+        ]
+      ]
+    },
+    {
+      "title": "DETERMINATION OF STRUCTURAL \nCHARACTERISTICS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.70902091264725,
+          675.9853057861328
+        ],
+        [
+          255.7559814453125,
+          675.9853057861328
+        ],
+        [
+          255.7559814453125,
+          699.9853057861328
+        ],
+        [
+          47.70902091264725,
+          701.0605273246765
+        ]
+      ]
+    },
+    {
+      "title": "BIOMEDICAL HYDROGELS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          314.9998779296875,
+          279.9853210449219
+        ],
+        [
+          471.3838806152344,
+          279.86445504426956
+        ],
+        [
+          471.3838806152344,
+          291.9853210449219
+        ],
+        [
+          313.99007749557495,
+          292.37474566698074
+        ]
+      ]
+    },
+    {
+      "title": "Acrylic Hydrogels",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          314.9998779296875,
+          304.25164794921875
+        ],
+        [
+          413.5236268043518,
+          304.01568272709846
+        ],
+        [
+          412.7878723144531,
+          316.25164794921875
+        ],
+        [
+          313.996497631073,
+          316.69258680939674
+        ]
+      ]
+    },
+    {
+      "title": "Poly(vinyl alcohol) (PVA) Hydrogels",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.65011763572693,
+          291.47055262327194
+        ],
+        [
+          252.16249465942383,
+          291.47055262327194
+        ],
+        [
+          252.16249465942383,
+          304.3407189846039
+        ],
+        [
+          53.65011763572693,
+          304.3407189846039
+        ]
+      ]
+    },
+    {
+      "title": "Poly(ethylene glycol) (PEG) Hydrogels",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          54.0,
+          544.0891799926758
+        ],
+        [
+          265.8240051269531,
+          544.0891799926758
+        ],
+        [
+          265.8240051269531,
+          556.3362493515015
+        ],
+        [
+          53.02994531393051,
+          556.3362493515015
+        ]
+      ]
+    },
+    {
+      "title": "Degradable Hydrogels",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          321.0,
+          448.0096383690834
+        ],
+        [
+          447.53454995155334,
+          448.0096383690834
+        ],
+        [
+          446.8079833984375,
+          460.25164794921875
+        ],
+        [
+          320.14213585853577,
+          460.25164794921875
+        ]
+      ]
+    },
+    {
+      "title": "Star Polymer and Dendrimer Hydrogels",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.24254882335663,
+          412.25164794921875
+        ],
+        [
+          268.5119934082031,
+          412.25164794921875
+        ],
+        [
+          268.5119934082031,
+          424.25164794921875
+        ],
+        [
+          47.24254882335663,
+          424.25164794921875
+        ]
+      ]
+    },
+    {
+      "title": "Self-Assembled Hydrogel Structures",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.49244165420532,
+          616.2516479492188
+        ],
+        [
+          250.260009765625,
+          616.2516479492188
+        ],
+        [
+          250.260009765625,
+          628.2516479492188
+        ],
+        [
+          47.49244165420532,
+          628.2516479492188
+        ]
+      ]
+    },
+    {
+      "title": "\"SMART\" OR \"INTELLIGENT,\" \nSTIMULI-RESPONSIVE HYDROGELS \nAND THEIR APPLICATIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          315.0,
+          256.00128173828125
+        ],
+        [
+          526.3800048828125,
+          255.58647045493126
+        ],
+        [
+          526.3800048828125,
+          292.0013122558594
+        ],
+        [
+          315.0,
+          293.23915216326714
+        ]
+      ]
+    },
+    {
+      "title": "pH-Sensitive Hydrogels",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          314.28018736839294,
+          448.26763916015625
+        ],
+        [
+          446.135986328125,
+          447.9569007754326
+        ],
+        [
+          446.135986328125,
+          460.26763916015625
+        ],
+        [
+          314.28018736839294,
+          461.1048029065132
+        ]
+      ]
+    },
+    {
+      "title": "pH-Responsive Complexation Hydrogels",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.860121726989746,
+          387.8458914756775
+        ],
+        [
+          280.8369719982147,
+          387.8458914756775
+        ],
+        [
+          280.8369719982147,
+          400.25164794921875
+        ],
+        [
+          53.860121726989746,
+          400.25164794921875
+        ]
+      ]
+    },
+    {
+      "title": "Temperature-Sensitive Hydrogels",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          321.0,
+          100.2515869140625
+        ],
+        [
+          507.3050994873047,
+          100.2515869140625
+        ],
+        [
+          507.3050994873047,
+          112.35668487846851
+        ],
+        [
+          321.0,
+          112.35668487846851
+        ]
+      ]
+    },
+    {
+      "title": "Affinity Hydrogels",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          315.0,
+          100.0173247307539
+        ],
+        [
+          418.79998779296875,
+          100.0173247307539
+        ],
+        [
+          418.79998779296875,
+          112.2515869140625
+        ],
+        [
+          315.0,
+          112.2515869140625
+        ]
+      ]
+    },
+    {
+      "title": "BIOMEDICAL APPLICATIONS \nOF HYDROGELS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          54.0,
+          207.7012939453125
+        ],
+        [
+          228.08396911621094,
+          207.7012939453125
+        ],
+        [
+          228.08396911621094,
+          231.7012939453125
+        ],
+        [
+          54.0,
+          231.7012939453125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Lenses",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.879578202962875,
+          243.96759033203125
+        ],
+        [
+          138.36561119556427,
+          243.96759033203125
+        ],
+        [
+          138.36561119556427,
+          255.96759033203125
+        ],
+        [
+          53.879578202962875,
+          255.96759033203125
+        ]
+      ]
+    },
+    {
+      "title": "Blood-Contacting Hydrogels",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.86349594593048,
+          471.9033152461052
+        ],
+        [
+          212.57433414459229,
+          471.9033152461052
+        ],
+        [
+          212.57433414459229,
+          483.9676513671875
+        ],
+        [
+          53.86349594593048,
+          483.9676513671875
+        ]
+      ]
+    },
+    {
+      "title": "Drug Delivery from Hydrogels",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.794598042964935,
+          615.9676513671875
+        ],
+        [
+          223.98284196853638,
+          615.9676513671875
+        ],
+        [
+          223.98284196853638,
+          628.2904887199402
+        ],
+        [
+          53.794598042964935,
+          628.2904887199402
+        ]
+      ]
+    },
+    {
+      "title": "Targeted Drug Delivery from Hydrogels",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          320.83981490135193,
+          700.025703728199
+        ],
+        [
+          543.885171175003,
+          700.025703728199
+        ],
+        [
+          543.885171175003,
+          712.3065624833107
+        ],
+        [
+          320.83981490135193,
+          712.3065624833107
+        ]
+      ]
+    },
+    {
+      "title": "Tissue Engineering Scaffolds \nfrom Hydrogels",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.807821691036224,
+          136.0543809235096
+        ],
+        [
+          211.81198120117188,
+          136.0543809235096
+        ],
+        [
+          211.81198120117188,
+          160.2515869140625
+        ],
+        [
+          47.807821691036224,
+          160.2515869140625
+        ]
+      ]
+    },
+    {
+      "title": "Miscellaneous Biomedical Applications \nof Hydrogels",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.0,
+          436.25164794921875
+        ],
+        [
+          268.67999267578125,
+          436.25164794921875
+        ],
+        [
+          268.67999267578125,
+          460.25164794921875
+        ],
+        [
+          46.80989187955856,
+          460.25164794921875
+        ]
+      ]
+    },
+    {
+      "title": "BIBLIOGRAPHY",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.0,
+          559.9853057861328
+        ],
+        [
+          140.5829472541809,
+          559.9853057861328
+        ],
+        [
+          139.3876347541809,
+          571.9853057861328
+        ],
+        [
+          47.09258759021759,
+          572.7755840420723
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          53.95651039481163,
+          363.9530029296875
+        ],
+        [
+          147.32729959487915,
+          363.9530029296875
+        ],
+        [
+          147.32729959487915,
+          375.97731935977936
+        ],
+        [
+          53.95651039481163,
+          375.97731935977936
+        ]
+      ]
+    },
+    {
+      "title": "DEFINITIONS RELATING TO THE \nPROCESSES OF DEGRADATION VERSUS \nBIODEGRADATION, AND EROSION \nVERSUS BIOEROSION",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          321.0,
+          219.85247802734375
+        ],
+        [
+          559.7279663085938,
+          219.85247802734375
+        ],
+        [
+          559.7279663085938,
+          267.85247802734375
+        ],
+        [
+          321.0,
+          267.85247802734375
+        ]
+      ]
+    },
+    {
+      "title": "OVERVIEW OF CURRENTLY AVAILABLE \nDEGRADABLE POLYMERS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          314.3569006919861,
+          483.9773254394531
+        ],
+        [
+          551.7479858398438,
+          483.9773254394531
+        ],
+        [
+          551.7479858398438,
+          507.9773254394531
+        ],
+        [
+          314.3569006919861,
+          507.9773254394531
+        ]
+      ]
+    },
+    {
+      "title": "APPLICATIONS OF SYNTHETIC, \nDEGRADABLE POLYMERS AS \nBIOMATERIALS",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          320.56429624557495,
+          267.98529052734375
+        ],
+        [
+          507.083984375,
+          267.98529052734375
+        ],
+        [
+          507.083984375,
+          303.9853210449219
+        ],
+        [
+          320.56429624557495,
+          303.9853210449219
+        ]
+      ]
+    },
+    {
+      "title": "Classification of Degradable Medical \nImplants",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          321.0,
+          316.07341012358665
+        ],
+        [
+          529.7039794921875,
+          316.07341012358665
+        ],
+        [
+          529.7039794921875,
+          340.25164794921875
+        ],
+        [
+          321.0,
+          340.25164794921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          254
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          346
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          373
+        ],
+        [
+          "Line",
+          135
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          386
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          43
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "TableCell",
+          17
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "TableCell",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Semana4"
+}
