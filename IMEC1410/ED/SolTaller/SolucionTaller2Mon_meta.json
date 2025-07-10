@@ -1,0 +1,359 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Taller Esfuerzo-Deformaci\u00f3n:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.02499389648438,
+          86.38724845647812
+        ],
+        [
+          219.54939186573029,
+          86.38724845647812
+        ],
+        [
+          218.35407936573029,
+          98.41872400045395
+        ],
+        [
+          84.03433907032013,
+          98.41872400045395
+        ]
+      ]
+    },
+    {
+      "title": "Paso 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.8886913061142,
+          140.10312366485596
+        ],
+        [
+          117.01299285888672,
+          140.10312366485596
+        ],
+        [
+          117.01299285888672,
+          152.16537809371948
+        ],
+        [
+          83.6933788061142,
+          152.16537809371948
+        ]
+      ]
+    },
+    {
+      "title": "Calcule el m\u00f3dulo de Young.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.02499389648438,
+          446.30426359176636
+        ],
+        [
+          214.42185580730438,
+          446.30426359176636
+        ],
+        [
+          213.3949737548828,
+          458.6385712623596
+        ],
+        [
+          85.01933741569519,
+          458.6385712623596
+        ]
+      ]
+    },
+    {
+      "title": "Calcule el esfuerzo de fluencia al 0.2%.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.02499389648438,
+          550.2168946266174
+        ],
+        [
+          260.5365765094757,
+          548.6700196266174
+        ],
+        [
+          260.2870178222656,
+          561.4578552246094
+        ],
+        [
+          84.3168797492981,
+          562.692539691925
+        ]
+      ]
+    },
+    {
+      "title": "Calcule el esfuerzo m\u00e1ximo de tensi\u00f3n ingenieril.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          84.90186899900436,
+          139.61489832401276
+        ],
+        [
+          307.6103231906891,
+          138.06802332401276
+        ],
+        [
+          307.01593017578125,
+          150.83782958984375
+        ],
+        [
+          83.70655649900436,
+          151.47059905529022
+        ]
+      ]
+    },
+    {
+      "title": "Calcule la ductilidad en \u00e1rea.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          84.88343846797943,
+          193.59605848789215
+        ],
+        [
+          217.13819324970245,
+          192.04918348789215
+        ],
+        [
+          216.6179962158203,
+          204.61785888671875
+        ],
+        [
+          83.68812596797943,
+          205.34692454338074
+        ]
+      ]
+    },
+    {
+      "title": "Calcule la ductilidad en elongaci\u00f3n.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          84.76503074169159,
+          274.6273856163025
+        ],
+        [
+          245.78700256347656,
+          273.0805106163025
+        ],
+        [
+          245.78700256347656,
+          285.6378479003906
+        ],
+        [
+          83.56971824169159,
+          286.9680190086365
+        ]
+      ]
+    },
+    {
+      "title": "Calcule el m\u00f3dulo de resiliencia del material.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          84.9318813085556,
+          369.07201623916626
+        ],
+        [
+          290.34076058864594,
+          367.52514123916626
+        ],
+        [
+          289.14544808864594,
+          380.1578369140625
+        ],
+        [
+          83.7365688085556,
+          381.2137670516968
+        ]
+      ]
+    },
+    {
+      "title": "g.1) Calcular el \u00e1rea bajo la curva completa. (M\u00e9todo de integrales, por ejemplo).",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          119.50894367694855,
+          71.08529216051102
+        ],
+        [
+          484.8417749404907,
+          71.08529216051102
+        ],
+        [
+          484.8417749404907,
+          83.74494963884354
+        ],
+        [
+          119.50894367694855,
+          83.74494963884354
+        ]
+      ]
+    },
+    {
+      "title": "Calcule el esfuerzo de fractura del material.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.43033558130264,
+          98.05138957500458
+        ],
+        [
+          283.24603271484375,
+          98.05138957500458
+        ],
+        [
+          283.24603271484375,
+          110.62801015377045
+        ],
+        [
+          83.23502308130264,
+          110.62801015377045
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\SolucionTaller2Mon"
+}
