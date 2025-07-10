@@ -1,0 +1,827 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ENSAYO DE DUREZA EN METALES, POL\u00cdMEROS Y CER\u00c1MICOS: APLICACI\u00d3N \nDE LOS M\u00c9TODOS ROCKWELL, BRINELL, VICKERS Y SHORE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.97655487060547,
+          84.9960145354271
+        ],
+        [
+          534.7721536159515,
+          84.9960145354271
+        ],
+        [
+          534.7721536159515,
+          112.35778820514679
+        ],
+        [
+          80.97655487060547,
+          112.35778820514679
+        ]
+      ]
+    },
+    {
+      "title": "RESUMEN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.52883833646774,
+          172.1319522857666
+        ],
+        [
+          86.1006286740303,
+          172.1319522857666
+        ],
+        [
+          86.1006286740303,
+          182.87310791015625
+        ],
+        [
+          35.52883833646774,
+          182.87310791015625
+        ]
+      ]
+    },
+    {
+      "title": "NOMENCLATURA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          356.61523032188416
+        ],
+        [
+          121.68456709384918,
+          356.61523032188416
+        ],
+        [
+          120.85748291015625,
+          367.4330749511719
+        ],
+        [
+          34.98499175906181,
+          367.4330749511719
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCCI\u00d3N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          554.1744360923767
+        ],
+        [
+          115.64883720874786,
+          552.6275610923767
+        ],
+        [
+          114.45352470874786,
+          564.4730987548828
+        ],
+        [
+          35.07332333922386,
+          564.9188160896301
+        ]
+      ]
+    },
+    {
+      "title": "Objetivos",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.44000244140625,
+          223.193115234375
+        ],
+        [
+          365.91839504241943,
+          221.81825423240662
+        ],
+        [
+          365.0479736328125,
+          233.27313232421875
+        ],
+        [
+          318.53560638427734,
+          233.71750330924988
+        ]
+      ]
+    },
+    {
+      "title": "M\u00c9TODO",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.44000244140625,
+          352.3131103515625
+        ],
+        [
+          363.5704493522644,
+          351.285786151886
+        ],
+        [
+          363.2073669433594,
+          362.52843475341797
+        ],
+        [
+          318.71974754333496,
+          364.07530975341797
+        ]
+      ]
+    },
+    {
+      "title": "Preparativos",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.44000244140625,
+          375.8330993652344
+        ],
+        [
+          380.05810546875,
+          375.57098722457886
+        ],
+        [
+          380.05810546875,
+          385.9130859375
+        ],
+        [
+          319.44000244140625,
+          387.28244733810425
+        ]
+      ]
+    },
+    {
+      "title": "Ejecuci\u00f3n",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.44000244140625,
+          653.7531127929688
+        ],
+        [
+          366.75206422805786,
+          652.9240980148315
+        ],
+        [
+          366.75206422805786,
+          663.8331146240234
+        ],
+        [
+          319.44000244140625,
+          665.2067613601685
+        ]
+      ]
+    },
+    {
+      "title": "Procesamiento de datos",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          319.06129145622253,
+          235.193115234375
+        ],
+        [
+          435.05462646484375,
+          234.6460154056549
+        ],
+        [
+          435.05462646484375,
+          245.27313232421875
+        ],
+        [
+          317.86597895622253,
+          245.67004895210266
+        ]
+      ]
+    },
+    {
+      "title": "RESULTADOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.1482095718384,
+          674.1530990600586
+        ],
+        [
+          387.0043087005615,
+          673.1188702583313
+        ],
+        [
+          387.0043087005615,
+          684.2331008911133
+        ],
+        [
+          318.1482095718384,
+          684.819661617279
+        ]
+      ]
+    },
+    {
+      "title": "Figura 3. Ilustraciones de las indentaciones obtenidas en \nel ensayo de Rockwell y Vickers. Basado en [6] y [8].",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.02534955739975,
+          259.4908447265625
+        ],
+        [
+          292.6109924316406,
+          258.0490379333496
+        ],
+        [
+          292.6109924316406,
+          278.93084716796875
+        ],
+        [
+          43.83003705739975,
+          280.12061405181885
+        ]
+      ]
+    },
+    {
+      "title": "Figura 4. Ilustraciones de las indentaciones obtenidas en \nel ensayo de Shore y Brinell. Basado en [6] y [8].",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          43.99929517507553,
+          461.88928413391113
+        ],
+        [
+          292.6109924316406,
+          460.34240913391113
+        ],
+        [
+          292.6109924316406,
+          481.49090576171875
+        ],
+        [
+          42.80398267507553,
+          482.8633003234863
+        ]
+      ]
+    },
+    {
+      "title": "Tabla 3. Prueba de dureza Vickers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          374.1832616329193,
+          200.1011781692505
+        ],
+        [
+          520.1158447265625,
+          198.5543031692505
+        ],
+        [
+          520.1158447265625,
+          209.57086181640625
+        ],
+        [
+          372.9879491329193,
+          210.9026312828064
+        ]
+      ]
+    },
+    {
+      "title": "Tabla 4. Prueba de dureza Shore",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          378.5025634765625,
+          409.37012100219727
+        ],
+        [
+          518.5846209526062,
+          407.82324600219727
+        ],
+        [
+          517.3893084526062,
+          418.6108703613281
+        ],
+        [
+          377.7449412345886,
+          419.88318729400635
+        ]
+      ]
+    },
+    {
+      "title": "Tabla 6. Prueba de dureza Brinell",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          371.5221519470215,
+          637.6901550292969
+        ],
+        [
+          520.1841101646423,
+          636.1432800292969
+        ],
+        [
+          520.1841101646423,
+          647.5708923339844
+        ],
+        [
+          371.5221519470215,
+          648.0458335876465
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSI\u00d3N",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.97262570261955,
+          459.11309814453125
+        ],
+        [
+          91.79874515533447,
+          457.9510974884033
+        ],
+        [
+          91.79874515533447,
+          469.1930847167969
+        ],
+        [
+          34.97262570261955,
+          470.1658773422241
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.51216787099838,
+          615.5931091308594
+        ],
+        [
+          116.60370635986328,
+          614.5379190444946
+        ],
+        [
+          116.60370635986328,
+          625.6731109619141
+        ],
+        [
+          35.51216787099838,
+          627.1558456420898
+        ]
+      ]
+    },
+    {
+      "title": "BIBLIOGRAF\u00cdA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          319.44000244140625,
+          453.53852891921997
+        ],
+        [
+          394.4346671104431,
+          451.99165391921997
+        ],
+        [
+          393.2393546104431,
+          463.6766781806946
+        ],
+        [
+          319.1844778060913,
+          465.2235531806946
+        ]
+      ]
+    },
+    {
+      "title": "ANEXO A",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          281.8606553077698,
+          83.65059489011765
+        ],
+        [
+          329.21710681915283,
+          83.65059489011765
+        ],
+        [
+          329.21710681915283,
+          95.37508410215378
+        ],
+        [
+          281.8606553077698,
+          95.37508410215378
+        ]
+      ]
+    },
+    {
+      "title": "T\u00cdTULO DEL ANEXO",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          256.22406935691833,
+          107.72341811656952
+        ],
+        [
+          354.4027404785156,
+          107.72341811656952
+        ],
+        [
+          354.4027404785156,
+          119.32054316997528
+        ],
+        [
+          256.22406935691833,
+          119.32054316997528
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          379
+        ],
+        [
+          "TableCell",
+          137
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Table",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          381
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "TableCell",
+          96
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Ejemplo 3"
+}

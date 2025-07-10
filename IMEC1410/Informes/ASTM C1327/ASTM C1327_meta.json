@@ -1,0 +1,1167 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Standard Test Method for\nVickers Indentation Hardness of Advanced Ceramics1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          87.27022194862366,
+          98.88058069348335
+        ],
+        [
+          448.0964069366455,
+          98.88058069348335
+        ],
+        [
+          448.0964069366455,
+          129.07563257217407
+        ],
+        [
+          87.27022194862366,
+          129.07563257217407
+        ]
+      ]
+    },
+    {
+      "title": "1. Scope",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.2408712208271,
+          190.18396466970444
+        ],
+        [
+          70.15288436412811,
+          190.18396466970444
+        ],
+        [
+          70.15288436412811,
+          200.30304956436157
+        ],
+        [
+          30.2408712208271,
+          200.30304956436157
+        ]
+      ]
+    },
+    {
+      "title": "2. Referenced Documents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          298.46596670150757,
+          189.98815256357193
+        ],
+        [
+          412.32055854797363,
+          188.46080881357193
+        ],
+        [
+          412.32055854797363,
+          200.30152368545532
+        ],
+        [
+          298.46596670150757,
+          200.30152368545532
+        ]
+      ]
+    },
+    {
+      "title": "3. Terminology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.83548164367676,
+          441.7779030799866
+        ],
+        [
+          368.5362229347229,
+          441.7779030799866
+        ],
+        [
+          367.3955979347229,
+          451.75589990615845
+        ],
+        [
+          300.83548164367676,
+          453.10697627067566
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Definitions:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.31457710266113,
+          457.24381494522095
+        ],
+        [
+          377.79207038879395,
+          456.3299288749695
+        ],
+        [
+          376.65144538879395,
+          467.3228859901428
+        ],
+        [
+          310.31457710266113,
+          467.3228859901428
+        ]
+      ]
+    },
+    {
+      "title": "4. Summary of Test Method",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.8355121612549,
+          547.0547890663147
+        ],
+        [
+          424.38424158096313,
+          546.8437370061874
+        ],
+        [
+          424.16357612609863,
+          557.0327858924866
+        ],
+        [
+          300.20147943496704,
+          557.8147150278091
+        ]
+      ]
+    },
+    {
+      "title": "5. Significance and Use",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.784752726554867,
+          173.13351249694824
+        ],
+        [
+          133.98785388469696,
+          173.13351249694824
+        ],
+        [
+          133.98785388469696,
+          183.85352563858032
+        ],
+        [
+          30.784752726554867,
+          183.85352563858032
+        ]
+      ]
+    },
+    {
+      "title": "6. Interferences",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.8363666534424,
+          338.6866250038147
+        ],
+        [
+          371.2484097480774,
+          338.17139929533005
+        ],
+        [
+          370.1077847480774,
+          348.6646218299866
+        ],
+        [
+          299.9586510658264,
+          348.85800462961197
+        ]
+      ]
+    },
+    {
+      "title": "7. Apparatus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.834810256958,
+          581.6447243690491
+        ],
+        [
+          361.0186381340027,
+          581.6447243690491
+        ],
+        [
+          361.0186381340027,
+          591.622721195221
+        ],
+        [
+          300.834810256958,
+          592.82639503479
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Testing Machines:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.1720623970032,
+          597.1106209754944
+        ],
+        [
+          403.2843499183655,
+          596.7115477323532
+        ],
+        [
+          403.2843499183655,
+          607.1896920204163
+        ],
+        [
+          310.1720623970032,
+          607.6940852403641
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Indenter:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.72572183609009,
+          475.54178857803345
+        ],
+        [
+          96.26782059669495,
+          475.54178857803345
+        ],
+        [
+          96.26782059669495,
+          485.6208596229553
+        ],
+        [
+          40.72572183609009,
+          485.6208596229553
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Measuring Microscope:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.84175872802734,
+          92.04218530654907
+        ],
+        [
+          424.3909320831299,
+          90.99566508829594
+        ],
+        [
+          424.3909320831299,
+          102.12122583389282
+        ],
+        [
+          309.84175872802734,
+          102.12122583389282
+        ]
+      ]
+    },
+    {
+      "title": "8. Test Specimens",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          300.83548164367676,
+          466.5157570838928
+        ],
+        [
+          379.9559440612793,
+          466.3733979463577
+        ],
+        [
+          378.9043598175049,
+          476.4937539100647
+        ],
+        [
+          300.0267724990845,
+          477.6550837755203
+        ]
+      ]
+    },
+    {
+      "title": "9. Preparation of Apparatus",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          30.33323502540588,
+          59.1758948713541
+        ],
+        [
+          156.62964129447937,
+          59.1758948713541
+        ],
+        [
+          156.62964129447937,
+          69.59180688858032
+        ],
+        [
+          30.33323502540588,
+          69.59180688858032
+        ]
+      ]
+    },
+    {
+      "title": "10. Procedure",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          30.676994591951367,
+          265.6446633338928
+        ],
+        [
+          94.4415431022644,
+          265.6446633338928
+        ],
+        [
+          94.4415431022644,
+          275.6226296424866
+        ],
+        [
+          30.676994591951367,
+          275.6226296424866
+        ]
+      ]
+    },
+    {
+      "title": "10.2 Specimen Leveling:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          40.62659418582916,
+          331.0004982948303
+        ],
+        [
+          142.6034107208252,
+          331.0004982948303
+        ],
+        [
+          142.6034107208252,
+          341.0795693397522
+        ],
+        [
+          40.62659418582916,
+          341.0795693397522
+        ]
+      ]
+    },
+    {
+      "title": "10.5 Application of Test Force:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.31448554992676,
+          248.08375024795532
+        ],
+        [
+          439.55850410461426,
+          247.41067028045654
+        ],
+        [
+          439.55850410461426,
+          258.1627907752991
+        ],
+        [
+          310.20126724243164,
+          258.1627907752991
+        ]
+      ]
+    },
+    {
+      "title": "10.7 Acceptability of Indentations:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.31375312805176,
+          509.08378076553345
+        ],
+        [
+          453.2511949539184,
+          508.4864246845245
+        ],
+        [
+          453.0360736846924,
+          519.1628518104553
+        ],
+        [
+          310.31375312805176,
+          519.1628518104553
+        ]
+      ]
+    },
+    {
+      "title": "11. Measurement of Indentation Size",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.974105596542355,
+          639.0729470252991
+        ],
+        [
+          193.32251858711243,
+          638.4739677906036
+        ],
+        [
+          193.32251858711243,
+          649.050943851471
+        ],
+        [
+          30.974105596542355,
+          649.6417367458344
+        ]
+      ]
+    },
+    {
+      "title": "12. Calculation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          31.36477261781692,
+          585.1429085731506
+        ],
+        [
+          98.57409834861755,
+          583.9342601299286
+        ],
+        [
+          98.2335147857666,
+          595.1209053993225
+        ],
+        [
+          30.22414761781692,
+          595.8599212169647
+        ]
+      ]
+    },
+    {
+      "title": "13. Report",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          30.96941941976547,
+          419.58199536800385
+        ],
+        [
+          79.8435411453247,
+          419.58199536800385
+        ],
+        [
+          79.8435411453247,
+          429.8328347206116
+        ],
+        [
+          30.96941941976547,
+          429.8328347206116
+        ]
+      ]
+    },
+    {
+      "title": "14. Precision and Bias",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          31.0527611374855,
+          611.4853463172913
+        ],
+        [
+          129.76967692375183,
+          611.0410226583481
+        ],
+        [
+          129.0953540802002,
+          621.4633431434631
+        ],
+        [
+          29.9121361374855,
+          621.74762403965
+        ]
+      ]
+    },
+    {
+      "title": "C1327 \u2212 15 (2019)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          235.24015665054318,
+          31.95042037963867
+        ],
+        [
+          354.4979166984558,
+          31.95042037963867
+        ],
+        [
+          354.4979166984558,
+          50.76441669464111
+        ],
+        [
+          235.24015665054318,
+          50.76441669464111
+        ]
+      ]
+    },
+    {
+      "title": "15. Keywords",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          300.83609199523926,
+          175.09730005264282
+        ],
+        [
+          361.53225898742676,
+          175.09730005264282
+        ],
+        [
+          361.53225898742676,
+          185.07526636123657
+        ],
+        [
+          300.83609199523926,
+          185.07526636123657
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          264.2306475639343,
+          248.18616724014282
+        ],
+        [
+          320.17383432388306,
+          247.15871542692184
+        ],
+        [
+          320.17383432388306,
+          258.1641335487366
+        ],
+        [
+          264.2306475639343,
+          258.1641335487366
+        ]
+      ]
+    },
+    {
+      "title": "(Nonmandatory Information)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          233.85689473152158,
+          270.6593728065491
+        ],
+        [
+          351.4455056190491,
+          269.58220797777176
+        ],
+        [
+          350.3048806190491,
+          279.63956689834595
+        ],
+        [
+          232.71626973152158,
+          279.63956689834595
+        ]
+      ]
+    },
+    {
+      "title": "X1. REVISION HISTORY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          237.95712971687314,
+          292.6105751991272
+        ],
+        [
+          345.919837474823,
+          292.0336437225342
+        ],
+        [
+          344.8828754425049,
+          301.5907692909241
+        ],
+        [
+          236.81650471687314,
+          302.3553794622421
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          258.3211567401886,
+          59.61384057998657
+        ],
+        [
+          326.4760241508484,
+          59.61384057998657
+        ],
+        [
+          326.4760241508484,
+          69.59180688858032
+        ],
+        [
+          258.3211567401886,
+          69.59180688858032
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Footnote",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          280
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          366
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "TableCell",
+          29
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ASTM C1327"
+}
